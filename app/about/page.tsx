@@ -131,7 +131,7 @@ export default function About() {
       </section>
 
       {/* History */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-card">
+      {/* <section className="py-20 px-4 sm:px-6 lg:px-8 bg-card">
         <div className="max-w-3xl mx-auto">
           <h2 className="font-serif text-4xl sm:text-5xl font-bold text-foreground mb-8 text-center">
             Our Journey
@@ -161,10 +161,10 @@ export default function About() {
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Leadership Team */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8">
+      {/* <section className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="font-serif text-4xl sm:text-5xl font-bold text-foreground mb-4">
@@ -199,7 +199,7 @@ export default function About() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* CTA Section */}
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-linear-to-br from-primary to-primary/80">
